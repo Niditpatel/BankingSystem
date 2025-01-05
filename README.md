@@ -50,5 +50,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Thank you to the open-source community for providing resources and inspiration for this project.
 Special thanks to Python for being an excellent programming language for beginners and professionals alike.
 
-## Contact
-For any inquiries or feedback, please reach out to me at https://www.linkedin.com/in/khushi-visaveliya-890472289
